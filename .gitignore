@@ -2,3 +2,4 @@
 env.list
 ibeam.egg-info
 /outputs/
+copy_cache/clientportal.gw/logs/*
